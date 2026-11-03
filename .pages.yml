@@ -1,0 +1,27 @@
+media: media
+
+content:
+  - name: home
+    label: HOME
+    type: file
+    path: index.html
+
+  - name: profile
+    label: PROFILE
+    type: file
+    path: profile.html
+
+  - name: music
+    label: MUSIC
+    type: file
+    path: music.html
+
+  - name: links
+    label: LINKS
+    type: file
+    path: links.html
+
+  - name: styles
+    label: CSSデザイン
+    type: file
+    path: style.css
